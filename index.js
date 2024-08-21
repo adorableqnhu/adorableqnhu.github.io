@@ -1,6 +1,6 @@
-const contentLetterSrart_actived = "Happy Birthday =))))) Nội dung chắc vẫn như cũ thôi nhưng đó là những lời chúc chân thành nhất rồi đó （づ￣3￣）づ╭❤️～" //Lời mở đầu cho bức thư
-var mainContentLetter = "Mong rằng tuổi mới sẽ đầy hạnh phúc, thành công và niềm vui. >" +
-"Tuổi mới bạn sẽ gặp được nhiều người mới đối xử tốt với bản thân bạn. Không cần gì quá nổi bật, chỉ cần họ tôn trọng bạn là được. >" +
+const contentLetterSrart_actived = "Happy Birthday =))))) Nội dung vẫn như cũ thôi nhưng đó là những lời chúc chân thành nhất rồi đó （づ￣3￣）づ╭❤️～" //Lời mở đầu cho bức thư
+var mainContentLetter = "Tuổi mới sẽ đầy hạnh phúc, thành công và niềm vui. >" +
+"Tuổi mới bạn sẽ gặp được nhiều người mới đối xử tốt với bạn. Không cần gì quá nổi bật, chỉ cần họ tôn trọng bạn là được. >" +
 "Mong bạn luôn vui vẻ, mọi vấn đề đều xem là nhẹ và luôn giải quyết được tất cả. >" +
 "Mọi giấc ngủ đều là giấc ngủ ngon, không muộn phiền và những giấc mơ sẽ chữa lành mọi phiền não, nổi đau của bạn. >" +
 "Mỗi năm qua đi, bạn càng trở nên xinh đẹp và mạnh mẽ hơn. Hãy tiếp tục là phiên bản tốt đẹp nhất của chính mình! >" +
